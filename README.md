@@ -1,2 +1,1 @@
-# amazon-clone-website
-amazon clone website
+# Amazon-Clone
